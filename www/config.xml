@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.example"
+        version   = "1.0.0" >
+
+    <name>Gujarat Tourism</name>
+
+    <description>
+        Config File for Gujarat Tourism Mobile Application.
+    </description>
+	
+	
+
+<gap:splash src="splashes/opening.png" />
+
+<icon src="icons/icon.png"/>
+<!--icon src="icons/icon.png" width="48" height="48"/>
+<icon src="icons/icon.png" width="72" height="72"/-->
+	
+<preference name="orientation" value="portrait" />
+	
+<gap:splash src="splashes/opening.png"/>
+<gap:splash src="splashes/opening.png" width="640" height="960"/>
+<gap:splash src="splashes/opening.png" width="768" height="1004"/>
+<gap:splash src="splashes/opening.png" width="1024" height="748"/>
+	
+</widget>
+
