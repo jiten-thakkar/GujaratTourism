@@ -1,4 +1,4 @@
 GujaratTourism
 ==============
 
-PhoneGap based Mobile App for Gujarat Tourism
+PhoneGap based mobile App for Gujarat Tourism
